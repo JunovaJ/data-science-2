@@ -41,7 +41,7 @@
    - Students to fill the lines below, commit and push the changes
    
          Year of study:21562
-         Number of lectures today:
+         Number of lectures today: 20
 
 # Prerequisites for the following practicals 
 
